@@ -49,8 +49,6 @@ elif algo == "kuno":
 else:
     result = "Algoritma tidak dikenali"
 
-print("*" * 70 + "\n")
-banner()
 print(f"Jenis Kriptografi: {algo}")
 print(f"Plaintext        : {plaintext}")
 
