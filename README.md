@@ -28,7 +28,7 @@
 ## 📦 Instalasi
 
 ```bash
-git clone https://github.com/namapengguna/encryptor.git
+git clone https://github.com/Isaac-1911/encryptor.git
 cd encryptor
 chmod +x install.sh
 ./install.sh
